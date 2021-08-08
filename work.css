@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+    background-color: green;
+}
+
+h1{
+  text-align: center;
+ color: white   ;
+  font-weight: bold;
+  font-size: 40px;
+  
+}
+button{
+  text-align: center;
+  font-size: 40px;
+    background-color: aqua;
+ }
+#album{
+  border-bottom: 5px solid #689F50;
+    padding: 2px;
+  height:350px
+}
+a{
+    font-size: 25px;
+     float: left;
+}
